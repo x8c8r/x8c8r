@@ -14,4 +14,3 @@ And a multitude of Friday Night Funkin' mods
 ## About me
 - I live in Kazakhstan ( 🇰🇿 )
 - My timezone is GMT +6 
-- My pronouns are **she/her**
