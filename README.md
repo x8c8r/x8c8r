@@ -11,4 +11,5 @@
 - CUBE
 
 ## About me
-- My timezone is GMT +6 
+- My timezone is GMT +6
+[![X8c8r's GitHub stats](https://github-readme-stats.vercel.app/api?username=x8c8r)](https://github.com/anuraghazra/github-readme-stats)
