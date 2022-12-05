@@ -8,9 +8,7 @@
 ### I am currently working on
 - [Octorb](https://github.com/x8c8r/octorb) - Multi-purpose Discord bot
 - Clickaformer - Experimental platformer game
-
-And a multitude of Friday Night Funkin' mods
+- CUBE
 
 ## About me
-- I live in Kazakhstan ( 🇰🇿 )
 - My timezone is GMT +6 
