@@ -8,7 +8,7 @@
 ### I am currently working on
 - [Octorb](https://github.com/x8c8r/octorb) - Multi-purpose Discord bot
 - Clickaformer - Experimental platformer game
-- CUBE
+- [CUBE](https://store.steampowered.com/app/2266090/Cube/) - Liminal space-inspired horror game (you should wishlist it right now)
 
 ## About me
 - My timezone is GMT +6 <br>
